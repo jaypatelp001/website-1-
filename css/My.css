@@ -1,0 +1,155 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 22px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  line-height: 2;
+  color: #66BFBF;
+}
+hr{
+  border: dotted #838383 6PX;
+  border-bottom: none;
+  width: 5%;
+margin: 100px auto;
+
+}
+
+.top-container {
+  background-color: #e4f9ff;
+  position: relative;
+  margin-top: 0;
+  padding-top: 100px;
+}
+
+.web {
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.designing {
+  color: #66BFBF;
+}
+
+.FPS {
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+}
+
+.image-com {
+  border-radius: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.imag-chilli {
+  border-radius: 50%;
+}
+
+.skill-img {
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.intro{
+  margin:auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+btn {
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:11px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Sacramento', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 22px;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.99rem;
+  padding: 20px 0px;
+}
